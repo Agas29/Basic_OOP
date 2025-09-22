@@ -12,6 +12,7 @@ public class Program
 
         Assasin char2 = new Assasin("Altair", "hidden blade");
         char2.introduction(false);
+
         Assasin char3 = new Assasin("connor", "hidden blade", new skill("axe"));
         char3.introduction(true);
 
